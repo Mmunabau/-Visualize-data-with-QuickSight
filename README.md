@@ -22,17 +22,17 @@
 
 <p align="center">
 Creat an s3 bucket where the file will be upload: <br/>
- <img src="qs1.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+ <img src="images/qs1.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
  
 <br />
  Upload project files into S3:  <br/>
-<img src="qs2.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<img src="images/qs2.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
  Navigate into the quicksight tab and configure quicksight for configuration:  <br/>
-<img src="qs3.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<img src="images/qs3.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
