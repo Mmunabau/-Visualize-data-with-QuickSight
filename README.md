@@ -27,44 +27,39 @@ Creat an s3 bucket where the file will be upload: <br/>
  
 <br />
  Upload project files into S3:  <br/>
-<img src="images/qs2.png" height="80%" width="80%" alt="TF-IDF Steps"/>
-<br />
-
-<br />
- Navigate into the quicksight tab and configure quicksight for configuration:  <br/>
 <img src="images/qs3.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
+ Navigate into the quicksight tab and configure quicksight for configuration:  <br/>
+<img src="images/qs4.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<br />
+
+<br />
  Created QuickSight account <br/>
-<img src="qs4.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<img src="images/qs6.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
  Download the Dataset from your s3 bucket into the Quicksight:  <br/>
-<img src="qs5.png" height="80%" width="80%" alt="TF-IDF Steps"/>
-<br />
-
-<br />
- Upload project files into S3:  <br/>
-<img src="qs6.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<img src="images/qs7.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
  To creat visualization on Quicksight,you'll have to drag relevant fields into the
  Quicksight dashboard's Auto Graph space:  <br/>
-<img src="qs7.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<img src="images/qs8.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
 Using filters:Filters are useful for specifying the exact subset of data that you are wanting to analyze-effectively excluding any irrelevant data  <br/>
-<img src="qs8.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<img src="images/qs9.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
  As a finishing Touch, i' edited the titles of my graph so that the purpose of each
  chart is clear to the reader  <br/>
-<img src="qs10.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<img src="images/qs12.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
